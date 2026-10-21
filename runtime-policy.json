@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "php": {
+    "8.5": {
+      "minimumVersion": "8.5.0"
+    },
+    "8.6": {
+      "minimumVersion": "8.6.0"
+    }
+  },
+  "node": {
+    "22": {
+      "minimumVersion": "22.0.0"
+    },
+    "24": {
+      "minimumVersion": "24.0.0"
+    }
+  },
+  "ioncube": {
+    "8.5": {
+      "minimumVersion": "15.5.0"
+    },
+    "8.6": {
+      "minimumVersion": "15.5.0"
+    }
+  }
+}
